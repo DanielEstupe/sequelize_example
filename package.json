@@ -1,0 +1,17 @@
+{
+  "name": "test_sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sequelize": "^4.41.0",
+    "tedious": "^3.0.1"
+  }
+}
